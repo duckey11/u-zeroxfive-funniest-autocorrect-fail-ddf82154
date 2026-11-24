@@ -7,7 +7,7 @@ Deterministic: every run writes the exact same bytes, no trailing newline.
 
 import os
 
-ENTRY = "Hey Mom, don't wait up, I'm going to the gin after work to work out, be home by nine!"
+ENTRY = "Hey Mom, don't wait up, I'm going to the gin after work to sweat it out, be home by nine!"
 
 OUTPUT_PATH = "/output/entry.txt"
 
